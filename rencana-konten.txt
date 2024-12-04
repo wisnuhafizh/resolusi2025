@@ -1,4 +1,19 @@
-Rencana Konten Bahasa Inggris:
-1. Penggunaan tenses
-2. Gerund
-3. Passive Voice
+Rencana Konten:
+1. Kucing:
+  -Pengenalan Kucing
+  -Keseharian Kucing
+  -Tips dan Trik merawat Kucing
+  -Sifat Kucing yang ada di rumah
+2. Bahasa Inggris
+  -Pengenalan
+  -Tenses
+  -Article
+  -Preposition
+  -Gerund
+  -Passive Voice
+  -Kosakata
+3. Profil
+  -Video Aestethic
+  -Typography
+  -Daily Habit
+  -Daily Life
